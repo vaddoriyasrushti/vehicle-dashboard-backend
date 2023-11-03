@@ -1,9 +1,9 @@
 { 
     "database": {
-        "host": "localhost",
+        "host": "34.30.157.128",
         "port": 3003,
         "user": "root",
-        "password": "root",
+        "password": "Winter2023@",
         "database": "vehicle"
     }
 }
